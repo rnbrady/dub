@@ -1,5 +1,4 @@
 import Demo from "#/ui/home/demo";
-import Globe from "#/ui/home/globe";
 import Stats from "#/ui/home/stats";
 import Features from "#/ui/home/features";
 import Hero from "#/ui/home/hero";
@@ -17,8 +16,6 @@ export default function Home() {
       <Hero />
       <Demo />
       <Logos />
-      <Globe />
-      <Stats />
       <Features />
       <Testimonials />
       <Changelog />
